@@ -7,8 +7,12 @@
         "id": "b57376b821c6078c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "linux notes/distro hop notes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux notes/distro hop notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "b57376b821c6078c",
   "lastOpenFiles": [
+    "linux notes/distro hop notes.md",
+    "Untitled.md",
     "README.md"
   ]
 }
