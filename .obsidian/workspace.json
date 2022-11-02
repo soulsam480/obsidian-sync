@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "59a8894f95b0ba3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6011292d457bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ee966c34552238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSS libs/BE system arch..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "518c5ae8bc8031b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa755970666bd55a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6814c10507eeffb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cd21a85f18851c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19ab4a3214b4f98b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a28949b554e8b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a51ab73afad77e72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSS libs/BE system arch..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88ee966c34552238",
+  "lastOpenFiles": [
+    "README.md",
+    "linux notes/distro hop notes.md",
+    "OSS libs/BE system arch..md",
+    "Untitled.md"
+  ]
+}

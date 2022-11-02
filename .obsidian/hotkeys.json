@@ -7,5 +7,14 @@
       ],
       "key": "="
     }
+  ],
+  "obsidian-grammarly-plugin:enable-grammarly": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

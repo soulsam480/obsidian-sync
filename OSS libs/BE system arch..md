@@ -1,0 +1,1 @@
+- Instead of using bullmq for queueing which is based on redis, we can use https://github.com/timgit/pg-boss which uses postgres for queuing
