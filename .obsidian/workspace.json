@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/mirai/base research.md",
+                "file": "linux notes/distro hop notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/mirai/base research.md",
+                "file": "linux notes/distro hop notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,8 @@
   },
   "active": "5b32236f37f7b22c",
   "lastOpenFiles": [
-    "projects/mirai/README.md",
     "projects/mirai/base research.md",
+    "projects/mirai/README.md",
     "general notes/systems.md",
     "linux notes/distro hop notes.md",
     "README.md",
