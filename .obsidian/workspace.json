@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30504e320cc01c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippets/Playwright waitForNetworkIdle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux notes/distro hop notes.md",
+                "file": "snippets/Playwright waitForNetworkIdle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,12 +144,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b32236f37f7b22c",
+  "active": "30504e320cc01c1b",
   "lastOpenFiles": [
+    "linux notes/distro hop notes.md",
     "projects/mirai/base research.md",
     "projects/mirai/README.md",
     "general notes/systems.md",
-    "linux notes/distro hop notes.md",
     "README.md",
     "project arch. research/BE system arch..md",
     "Untitled.md"
