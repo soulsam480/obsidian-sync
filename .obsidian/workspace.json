@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "04d6bc22e10e6498",
+        "id": "44ea87ebcc4e9cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "99f1e239cc64f79b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "30504e320cc01c1b",
+            "id": "0c9343350596173d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/Playwright waitForNetworkIdle.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/Playwright waitForNetworkIdle.md",
+                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,14 +95,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30504e320cc01c1b",
+  "active": "0c9343350596173d",
   "lastOpenFiles": [
-    "linux notes/distro hop notes.md",
-    "projects/mirai/base research.md",
-    "projects/mirai/README.md",
-    "general notes/systems.md",
     "README.md",
-    "project arch. research/BE system arch..md",
-    "Untitled.md"
+    "LICENSE.md",
+    "conflict-files-obsidian-git.md",
+    "projects/mirai/README.md",
+    "projects/mirai/base research.md",
+    "linux notes/distro hop notes.md",
+    "general notes/systems.md",
+    "project arch. research/BE system arch..md"
   ]
 }
