@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "30504e320cc01c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippets/Playwright waitForNetworkIdle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "snippets/Playwright waitForNetworkIdle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,11 +104,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99f1e239cc64f79b",
+  "active": "30504e320cc01c1b",
   "lastOpenFiles": [
-    "projects/mirai/README.md",
-    "projects/mirai/base research.md",
     "linux notes/distro hop notes.md",
+    "projects/mirai/base research.md",
+    "projects/mirai/README.md",
     "general notes/systems.md",
     "README.md",
     "project arch. research/BE system arch..md",
