@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "59a8894f95b0ba3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "08302fc392ad859c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a994679e204d6bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "518c5ae8bc8031b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa755970666bd55a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6814c10507eeffb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cd21a85f18851c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15a194c1b94293fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19ab4a3214b4f98b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a28949b554e8b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a51ab73afad77e72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "8a994679e204d6bd",
+  "lastOpenFiles": [
+    "Resume/README.md",
+    "Resume",
+    "README.md",
+    "LICENSE.md",
+    "snippets/Playwright waitForNetworkIdle.md",
+    "snippets/general scripts.md",
+    "projects/mirai/base research.md",
+    "projects/mirai/README.md",
+    "general notes/systems.md",
+    "project arch. research/BE system arch..md",
+    "linux notes/distro hop notes.md",
+    "Untitled.md"
+  ]
+}
