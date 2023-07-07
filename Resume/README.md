@@ -24,6 +24,8 @@ Things I've worked on during my time at RevenueHero
 		- contributed to RevenueHero meeting-links
 		- migrated the app from Astro to SvelteKit
 		- optimised it to load super fast as its a SPA
+	- Web components/ Custom Elements
+		- built some web components to make custom form validation work with native forms
 - REST APIs
 	- Fastify, Postgres, Objection + Knex.js, Playwright, BullMQ
 		- REST API endpoints
@@ -42,4 +44,9 @@ Things I've worked on during my time at RevenueHero
 - Theming (first time)
 	- Implemented color computation logic under guidance and idea of @anandrhdes
 	- This involved handling a lot of edge cases regarding colour contrast, look and feel of UI etc.
-- 
+- Chrome Extensions
+	- multiple chrome extensions based on react
+	- worked on fixing issues with react rendering and styling of injected content scripts
+- npm package and bundling
+	- extensively worked on package bundling
+	- multiple transpilers, rollup setup, tree-shaking etc
